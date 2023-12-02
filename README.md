@@ -1,2 +1,2 @@
 # Netflix-Clone-HTML-CSS
-Netflix UI Clone using HTML CSS
+Created a Netflix clone involves replicating the user interface and design elements of the popular streaming platform. Below is a basic HTML and CSS code snippet that you can use as a starting point for your Netflix clone. Please note that this is a simplified example, and for a fully functional clone, you would need additional technologies such as JavaScript and a backend framework.
